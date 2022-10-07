@@ -82,7 +82,11 @@ body{
 }
 
 .two-left-top{
-    font-size: 48px;
+    font-size: 100px;
+    margin: 1px;
+}
+
+.title-1 {
     margin: 1px;
 }
 
